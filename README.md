@@ -1,2 +1,2 @@
 # umang-demo
-this is Demo for Git &amp; Github class 
+this is Demo for Git &amp; Github class.
